@@ -103,6 +103,19 @@ let colors = ['blue', 'yellow', 'green', 'red',  'violet']
 console.log(colors)
 console.log(colors.includes('red'))
 ```
+## For excercises
+
+### 1: Usa for...of para recorrer una palabra letra por letra e imprimir cada letra.
+```js
+
+```
+
+### 2: Usa un bucle for para imprimir los números del 1 al 5.
+```js
+
+```
+
+### 3: Usa for...in para recorrer una palabra e imprimir el índice y el carácter en esa posición.
 ```js
 
 ```
